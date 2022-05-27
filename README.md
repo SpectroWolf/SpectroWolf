@@ -5,6 +5,8 @@
          src="https://github-readme-stats.vercel.app/api?username=spectrowolf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 
+## Tecnologias
+  
 <div style = "display: inline_block"><br>
   <img align = "center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
   <img align = "center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> 
